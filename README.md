@@ -1,2 +1,2 @@
 # Degree-Project
-Computing project made to achieve my degree.
+This repository contains two game engines, created using two different architectures, Objected Oriented Design, and Entity Component System Architecture. Data gathered from those tests was used in my project paper to represent the differances between two architectures. 
